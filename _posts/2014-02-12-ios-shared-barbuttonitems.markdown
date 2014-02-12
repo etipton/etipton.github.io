@@ -90,6 +90,12 @@ class, replacing "addButton" with the name of your IBOutlet property:
 }
 {% endhighlight %}
 
+IMPORTANT: Note the condition inside the "if" statement. This will allow you to override the rightBarButtonItem on a
+per-screen basis later, if you want. But for now, make sure you remove any rightBarButtonItems from child
+ViewControllers. Therefore, in your storyboard, your navigation path should look like this (only one "+" button):
+
+<img src="/images/final-shared-barbutton-storyboard.png" width=600 />
+
 That's it! Now you can implement whatever you'd like in your IBAction method and the functionality will be the same on
 every screen.
 
