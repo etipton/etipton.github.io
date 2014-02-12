@@ -16,7 +16,7 @@ My primary goals for this blog are:
 - Increase my "Internet footprint."
 - Become a better and faster writer.
 
-Who am I? Well, until I add an "About Me" page, please see my <a href="http://www.linkedin.com/pub/eric-tipton/4/666/a83">LinkedIn profile</a>.
+Who am I? Well, until I add an "About Me" page, please see my [LinkedIn profile](http://www.linkedin.com/pub/eric-tipton/4/666/a83).
 
 Thanks for reading,
 
