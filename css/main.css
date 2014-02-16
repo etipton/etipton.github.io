@@ -177,7 +177,6 @@ a:visited { color: #006400; }
 }
 
 .post #timestamp {
-  margin-top: 0;
   font-size: 12px;
   font-style: italic;
 }
