@@ -27,7 +27,7 @@ p { margin: 1em 0; }
 
 a         { color: #10f; }
 a:hover   { color: #000; }
-a:visited { color: #006400; }
+a:visited { color: #666; }
 
 .right { float:right; }
 
