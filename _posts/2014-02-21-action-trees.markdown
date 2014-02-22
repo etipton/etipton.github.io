@@ -37,7 +37,7 @@ To picture the (extreme) example of the the second quality, consider an Action T
 
 The top of the tree is well-defined in terms of the possibile outcomes, but the action steps and further layers of the
 tree are undetermined. If you are this type of player and an unexpected event occurs, you would rely on your past
-experience, quick thinking and engenuity to determine, in-the-moment, the appropriate action step and build a new
+experience, quick thinking and ingenuity to determine, in-the-moment, the appropriate action step and build a new
 Branch of possibilities.
 
 In my (short) experience as a first-time entrepreneur, I've come to realize that it's really best to strive for both
@@ -53,7 +53,7 @@ following conditions:
 
 1. It actually contains somewhat accurate / realistic predictions of possible events.
 2. The construction process doesn't majorly prevent Getting Things Done.
-3. Once constructed, adherence to the Action Tree doesn't stifle your engenuity or blind you to new possibilities.
+3. Once constructed, adherence to the Action Tree doesn't stifle your ingenuity or blind you to new possibilities.
 
 Simply put, with the combination of both qualities, you're just trying to avoid:
 
