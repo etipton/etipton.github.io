@@ -4,23 +4,25 @@
   <div class="right">
 {% endif %}
 
-<span>
-  {% if page.previous.url %}
+{% if page.previous.url %}
+  <span>
     <a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">
       <!-- Keep spacing this way so that there isn't an extra space that the <a> causes an underline for -->
       {% if include.header %}&laquo; {{page.previous.title}}{% else %}<i class="fa fa-arrow-circle-left fa-3x"></i>{% endif %}</a>
-  {% endif %}
-</span>
+  </span>
+{% endif %}
 
-&nbsp;
+{% if page.previous.url and page.next.url %}
+  &nbsp;
+{% endif %}
 
-<span class="{% if include.header %}right{% endif %}">
-  {% if page.next.url %}
+{% if page.next.url %}
+  <span class="{% if include.header %}right{% endif %}">
     <a href="{{page.next.url}}" title="Next Post: {{page.next.title}}">
       <!-- Keep spacing this way so that there isn't an extra space that the <a> causes an underline for -->
       {% if include.header %}{{page.next.title}} &raquo;{% else %}<i class="fa fa-arrow-circle-right fa-3x"></i>{% endif %}</a>
-  {% endif %}
-</span>
+  </span>
+{% endif %}
 
 {% if include.header != true %}
   </div>
