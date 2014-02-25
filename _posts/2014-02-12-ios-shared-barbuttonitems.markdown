@@ -71,8 +71,9 @@ and an action for the BarButtonItem.
 
     <img src="/images/connect-barbutton.png" width=600 />
 
-The final step is to programmatically add the BarButtonItem to all child ViewControllers. Add this code to your new
-class, replacing "addButton" with the name of your IBOutlet property:
+The final step is to programmatically add the BarButtonItem to all child ViewControllers. First, tell your new class to
+conform to the UINavigationControllerDelegate protocol. Then, add this code to your new class, replacing "addButton"
+with the name of your IBOutlet property:
 
 {% highlight obj-c %}
 - (void)viewDidLoad
