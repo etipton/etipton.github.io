@@ -41,9 +41,9 @@ At this point your storyboard should look like this:
 
 <img src="/images/modal-storyboard.png" width=600 />
 
-If you run the app as-is, you'll notice that other than the modal view, the screen becomes completely black. To fix
-this, edit the ViewController class for the view that contains the "Show Modal" button (the new project template should
-have created this class for you), and modify viewDidLoad:
+If you run the app as-is, you'll notice that other than the modal view, the screen becomes completely black instead of
+dimming. To fix this, edit the ViewController class for the view that contains the "Show Modal" button (the new project
+template should have created this class for you), and modify viewDidLoad:
 
 {% highlight obj-c %}
 - (void)viewDidLoad
@@ -58,8 +58,8 @@ That's it! Your modal should display properly now.
 ### <a name="dismissing-the-modal"></a>Dismissing the Modal
 ------------
 
-There are at least a couple of ways to dismiss the modal, one involving an unwind segue, and my personal preference,
-which is simply to call a method from a button action. Either way requires adding some code. The first answer in this
+There are a couple of ways to dismiss the modal, one involving an unwind segue, and my personal preference, which is
+simply to call a method from a button action. Either way requires adding some code. The first answer in this
 [StackOverflow post](http://stackoverflow.com/questions/12561735/what-are-unwind-segues-for-and-how-to-use-them)
 describes unwind segues really well so I won't go into that. Here's how to do it the way I prefer:
 
