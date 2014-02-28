@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "iOS Modals"
+title:  "iOS Semi-Transparent Modal Views"
 date:   2014-02-28 00:00:00
 categories: ios technical
 ---
