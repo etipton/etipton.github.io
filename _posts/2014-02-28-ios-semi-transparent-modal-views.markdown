@@ -35,9 +35,7 @@ semi-transparent view you just created. This will contain the actual modal conte
 the semi-transparent view because views appear in the order they are defined. If you switched the ordering, it would be
 "dimmed" along with everything else. Resize the view however you'd like and add a label if you'd like.
 
-At this point your storyboard should look like this:
-
-**NOTE:** I used "Test" as my class name prefix for this example. Apologies if that's confusing.
+At this point your storyboard should look something like this:
 
 <img src="/images/modal-storyboard.png" width=600 />
 
@@ -74,18 +72,16 @@ property and the ```dismissViewControllerAnimated:completion:``` method.
 
 Your new ViewController's .m file should look something like this:
 
-**NOTE:** I used "Test" as my class name prefix for this example. Apologies if that's confusing.
-
 {% highlight obj-c %}
-#import "TestModalViewController.h"
+#import "MyModalViewController.h"
 
-@interface TestModalViewController ()
+@interface MyModalViewController ()
 
 - (IBAction)dismiss:(id)sender;
 
 @end
 
-@implementation TestModalViewController
+@implementation MyModalViewController
 
 - (IBAction)dismiss:(id)sender
 {
