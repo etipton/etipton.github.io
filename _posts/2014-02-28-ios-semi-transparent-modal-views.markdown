@@ -9,11 +9,13 @@ When I first started (re)learning Objective-C, Cocoa, etc., figuring out how to 
 [modal view](http://en.wikipedia.org/wiki/Modal_window) was a great way to learn some of the basics
 of iOS programming.
 
-In my case, I wanted to give the appearance of the original screen "dimming" and the modal appearing over it.
+In my case, I wanted to give the appearance of the original screen "dimming" and the modal appearing over it, like so:
 
-I thought I'd share the concepts for any newbies out there who want to do this. I'll walk through the process by
-creating a new project from scratch. I'll leave it to the reader to figure out how to integrate any/all of the steps
-into his/her particular project.
+<img src="/images/modal-final.png" width=200 />
+
+I thought I'd share the concepts for any newbies out there who want to do this by walking through the process, starting
+with creating a new project from scratch. I'll leave it to the reader to figure out how to integrate any or all of the
+steps into his/her already existing project.
 
 ### <a name="showing-the-modal"></a>Showing the Modal
 ------------
