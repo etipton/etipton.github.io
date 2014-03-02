@@ -24,7 +24,7 @@ stack. Your stack is somewhere between these players'. Most players at the table
 you show down good hands, and therefore respect when you make a bet. Player A, however, doesn't follow this line of
 thinking. In this scenario, you might build an Action Tree in your head that looks something like:
 
-<img src="/images/action-tree.png" width=600 />
+<img src="/images/action-tree.png" width="600" />
 
 In programming terms, you have pre-loaded your brain with several "if...else" statements. You can imagine how much
 brain power would be needed to construct this type of structure, not to mention retaining it. Fast, on-the-fly,
@@ -33,7 +33,7 @@ players are masters of this type of thinking.
 
 To picture the (extreme) example of the the second quality, consider an Action Tree that simply looks like this:
 
-<img src="/images/action-tree-top.png" width=600 />
+<img src="/images/action-tree-top.png" width="600" />
 
 The top of the tree is well-defined in terms of the possibile outcomes, but the action steps and further layers of the
 tree are undetermined. If you are this type of player and an unexpected event occurs, you would rely on your past

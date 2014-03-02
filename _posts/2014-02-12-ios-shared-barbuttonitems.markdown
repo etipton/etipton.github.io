@@ -15,7 +15,7 @@ In my iOS app, I wanted every UINavigationController's child ViewController to h
 Specifically, I wanted every child to show the "+" (Add) button and for the "+" button to behave the same, regardless
 of which screen it was touched in.
 
-<img src="/images/shared-barbuttons.png" width=600 />
+<img src="/images/shared-barbuttons.png" width="600" />
 
 Unfortunately, storyboards don't make this very easy to do in a
 [DRY](http://en.wikipedia.org/wiki/Don't_repeat_yourself) manner.
@@ -43,18 +43,18 @@ To get around this, I discovered the following trick:
 2. Select the newly-created RootViewController.
 3. Use the Editor menu to select Embed In->Navigation Controller.
 
-    <img src="/images/embed-in.png" width=600 />
+    <img src="/images/embed-in.png" width="600" />
 
 4. The **new** NavigationController object will have a NavigationItem.
 
-    <img src="/images/storyboard-hack.png" width=600 />
+    <img src="/images/storyboard-hack.png" width="600" />
 
 5. Integrate the new NavigationController into your "actual" storyboard and clean up the unnecessary elements from the
 last few steps.
 
 Now, you can drag a BarButtonItem onto the NavigationController's NavigationItem.
 
-<img src="/images/barbutton-added.png" width=600 />
+<img src="/images/barbutton-added.png" width="600" />
 
 This will help with visualizing how the navigationBar will look, but more importantly, it will also help with achieving
 DRYness, as shown in part two below.
@@ -69,7 +69,7 @@ Now, you will need to link the BarButtonItem to an IBOutlet and an IBAction:
 - Show the Assistant Editor and control-drag from the BarButtonItem into your new class's .m file to create an outlet
 and an action for the BarButtonItem.
 
-    <img src="/images/connect-barbutton.png" width=600 />
+    <img src="/images/connect-barbutton.png" width="600" />
 
 The final step is to programmatically add the BarButtonItem to all child ViewControllers. First, tell your new class to
 conform to the UINavigationControllerDelegate protocol. Then, add this code to your new class, replacing "addButton"
@@ -95,7 +95,7 @@ IMPORTANT: Note the condition inside the "if" statement. This will allow you to 
 per-screen basis later, if you want. But for now, make sure you remove any rightBarButtonItems from child
 ViewControllers. Therefore, in your storyboard, your navigation path should look like this (only one "+" button):
 
-<img src="/images/final-shared-barbutton-storyboard.png" width=600 />
+<img src="/images/final-shared-barbutton-storyboard.png" width="600" />
 
 That's it! Now you can implement whatever you'd like in your IBAction method and the functionality will be the same on
 every screen.

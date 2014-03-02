@@ -11,7 +11,9 @@ of iOS programming.
 
 In my case, I wanted to give the appearance of the original screen "dimming" and the modal appearing over it, like so:
 
-<img src="/images/modal-final.png" width=200 />
+<p style="text-align:center;">
+	<img src="/images/modal-final.png" width="200" />
+</p>
 
 I thought I'd share the concepts for any newbies out there who want to do this by walking through the process, starting
 with creating a new project from scratch. I'll leave it to the reader to figure out how to integrate any or all of the
@@ -39,7 +41,7 @@ the semi-transparent view because views appear in the order they are defined. If
 
 At this point your storyboard should look something like this:
 
-<img src="/images/modal-storyboard.png" width=600 />
+<img src="/images/modal-storyboard.png" width="600" />
 
 If you run the app as-is, you'll notice that other than the modal view, the screen becomes completely black instead of
 dimming. To fix this, edit the ViewController class for the view that contains the "Show Modal" button (the new project
