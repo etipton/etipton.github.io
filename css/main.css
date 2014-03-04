@@ -81,7 +81,6 @@ a:visited { color: #666; }
 }
 
 .title {
-  display: inline-block;
   margin-bottom: 1.25em;
   font-size:38px;
 }
@@ -92,6 +91,14 @@ a:visited { color: #666; }
 
 .title a:hover {
   color: #000;
+}
+
+.title .icons {
+  margin-left: 20px;
+}
+
+.title .icons img {
+  height: 26px;
 }
 
 .header a.extra {
