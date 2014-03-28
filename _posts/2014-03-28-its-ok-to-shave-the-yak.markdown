@@ -9,7 +9,9 @@ categories: culture technical
 it's so relatable to everyone... see the following (low quality) example of a form of Yak Shaving, from Malcolm in the
 Middle:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/RHpJFROEOmg" frameborder="0" allowfullscreen></iframe>
+<p style="text-align:center;">
+  <iframe width="560" height="315" src="//www.youtube.com/embed/RHpJFROEOmg" frameborder="0" allowfullscreen></iframe>
+</p>
 
 Now, I have some counterintuitive advice for beginning software engineers. I say **Go Ahead and Shave the Yak**, and
 here's why...
@@ -42,7 +44,7 @@ accomplish this one specific goal that you happen to be tackling at the time.
 
 Now, obviously this is a pretty clear-cut example that some could argue is less yak-shaving and more just "doing things
 right." In reality, I have experienced many scenarios in which I could've gotten away with a "right" solution but there
-was a"more right" solution that involved a bit of Yak Shaving. Often I took the first road, but sometimes I took the
+was a "more right" solution that involved a bit of Yak Shaving. Often I took the first road, but sometimes I took the
 second. Which brings me to...
 
 **Don't Always Shave the Yak**. Good developers have an understanding of when it makes sense to work on honing their
