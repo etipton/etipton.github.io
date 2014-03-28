@@ -2,7 +2,7 @@
 layout: post
 title:  "Thoughts on Being a Co-founder"
 date:   2014-03-04 23:00:00
-categories: ios technical
+categories: culture entrepreneurship
 ---
 
 Being a co-founder is hard. And we're nowhere near the busiest we'll ever be, or the most stressed we'll ever be... in
