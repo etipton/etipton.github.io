@@ -4,6 +4,26 @@ title:  "iOS Static TableView in UIViewController"
 date:   2014-03-15 11:00:00
 categories: ios technical
 ---
+<p></p>
+
+### TL;DR Version
+------------
+
+Key takeaways:
+
+- Don't actually use a static TableView; use a dynamic one instead.
+- Place your TableViewCells directly into the main view.
+- Create strong IBOutlets for each cell (or use an IBOutletCollection).
+- In viewDidLoad, remove the UITableViewCells from their superview.
+- Set up AutoLayout constraints for the cells including constraints for their widths and heights.
+- Implement UITableViewDataSource methods and have them use the IBOutlets to return the appropriate cells.
+- You can now create IBOutlets and IBActions from views in the cell's contents, create segues, etc, just as you would
+be able to for a static TableView in a UITableViewController.
+
+<p></p>
+
+### Not-Long-Enough; Tell Me More Version
+------------
 
 Apple's recent release of XCode 5.1 resulted in a familiar but unexpected error for me:
 
@@ -104,6 +124,8 @@ strong pointers.
 - Control-drag from the TableView to the ViewController and set the ViewController as the TableView's dataSource.
 - Assuming the variable names "pushCell" and "toggleCell" you can now have your UIViewController implement the
 [UITableViewDataSource](http://bit.ly/1iNfbVa) protocol methods like so:
+
+<p></p>
 
 {% highlight obj-c %}
 @interface MyViewController () <UITableViewDataSource>
@@ -227,7 +249,7 @@ There are two additional code changes you can make, one to show that the switch'
 }
 {% endhighlight %}
 
-<br/>
+
 - Create an IBOutlet for the table and add unselect code:
 
 {% highlight obj-c %}
