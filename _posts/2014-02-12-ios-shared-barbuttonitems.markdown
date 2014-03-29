@@ -4,6 +4,22 @@ title:  "iOS Shared BarButtonItems"
 date:   2014-02-12 02:45:00
 categories: ios technical
 ---
+<p></p>
+
+### TL;DR Version
+------------
+
+You can use the following UINavigationControllerDelegate method to set up the NavigationItems for all child
+ViewControllers:
+
+{% highlight obj-c %}
+- (void)navigationController:(UINavigationController *)navigationController
+willShowViewController:(UIViewController *)viewController animated:(BOOL)animated
+{% endhighlight %}
+<p></p>
+
+### Not-Long-Enough; Tell Me More Version
+------------
 
 Here's one difficulty I ran into this week that had a less-than-obvious solution...
 
