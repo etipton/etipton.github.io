@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "TL;DR"
+date:   2014-03-29 18:30:00
+categories: culture technical
+---
+<p></p>
+
+### TL;DR Version
+------------
+
+I've added TL;DR sections to previous posts. :)
+
+### Not-Long-Enough; Tell Me More Version
+------------
+
+One thing I love to see when reading blog posts is a good **TL;DR** section (too long; didn't read -- aka a summary).
+
+With that in mind, I've gone back and updated applicable posts. I also made a lot more words bold or italicized.
+According to Google Analytics, most of my traffic comes from Stack Overflow to my tech-related posts. We'll see how
+this affects page-view times or bounce rates.
