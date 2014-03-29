@@ -4,6 +4,27 @@ title:  "iOS Semi-Transparent Modal Views"
 date:   2014-02-28 00:00:00
 categories: ios technical
 ---
+<p></p>
+
+### TL;DR Version
+------------
+
+Key takeaways:
+
+- Use a Modal-style segue (duh).
+- Make the background color of your modal ViewController's main view clearColor.
+- Add a full-screen-sized view to the main view and make it semi-transparent by setting it's background color to black
+and it's alpha property to 0.5.
+- Add another, smaller, view to the main view (as a sibling of the previous view) which will show your actual content.
+- Utilize the ```UIModalPresentationCurrentContext``` modalPresentationStyle to have your modal overlay the prior
+screen's contents.
+- Use the ```dismissViewControllerAnimated:completion:``` method or an unwind segue to dismiss your modal view. You
+will probably want to use NO for the animated boolean value.
+
+<p></p>
+
+### Not-Long-Enough; Tell Me More Version
+------------
 
 When I first started (re)learning Objective-C, Cocoa, etc., figuring out how to present a
 [modal view](http://en.wikipedia.org/wiki/Modal_window) was a great way to learn some of the basics
