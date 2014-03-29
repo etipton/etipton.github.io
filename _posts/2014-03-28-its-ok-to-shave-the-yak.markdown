@@ -22,13 +22,14 @@ you will improve your rate of learning. You will start to notice patterns which 
 work.
 
 Let's say you're a fairly new developer, building a web app and you have some inter-dependent models, let's say...
-<code>Parent</code> and <code>Child</code>. For performance' sake, you've de-normalized the last name field so that
-each model has a <code>last\_name</code> property. Therefore, if the <code>Parent</code>'s <code>last\_name</code>
-changes, the <code>Child</code>'s last_name needs to change as well.
+```Parent``` and ```Child```. For performance' sake, you've de-normalized the last name field so that each model has a
+```last_name``` property. Therefore, if the ```Parent```'s ```last_name``` changes, the ```Child```s last_name needs
+to change as well.
 
 The quick-and-dirty solution to this problem is to think "I've only got one controller action in my app where
-<code>parent.last\_name</code> can change, so I'll update <code>child.last\_name</code> there as well." However,
-further thinking would reveal that on any non-trivial project, you really can't be certain that this "one action" will forever remain the only applicable code path that could change the field value.
+```parent.last_name``` can change, so I'll update ```child.last_name``` there as well." However, further thinking
+would reveal that on any non-trivial project, you really can't be certain that this "one action" will forever remain
+the only applicable code path that could change the field value.
 
 So -- once you realize that the "right" solution is actually to push this logic down to the model level, then you
 start to think, "Well, now I'm going to have to learn all about after-save hooks... what once was a one-line change
