@@ -23,8 +23,8 @@ work.
 
 Let's say you're a fairly new developer, building a web app and you have some inter-dependent models, let's say...
 ```Parent``` and ```Child```. For performance' sake, you've de-normalized the last name field so that each model has a
-```last_name``` property. Therefore, if the ```Parent```'s ```last_name``` changes, the ```Child```s last_name needs
-to change as well.
+```last_name``` property. Therefore, if the ```Parent```'s ```last_name``` changes, the ```Child```s ```last_name```
+needs to change as well.
 
 The quick-and-dirty solution to this problem is to think "I've only got one controller action in my app where
 ```parent.last_name``` can change, so I'll update ```child.last_name``` there as well." However, further thinking
