@@ -40,7 +40,7 @@ a:visited { color: #666; }
 /*****************************************************************************/
 .posts {
   list-style-type: none;
-  margin-bottom: 2em;
+  margin-bottom: 1.5em;
 }
 
 .posts li {
@@ -51,6 +51,25 @@ a:visited { color: #666; }
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
+}
+
+.posts .pagination {
+  margin: 2px 0 2px 0;
+}
+
+.posts .pagination span {
+  color: #000;
+  font-family: Helvetica;
+  font-size: 14px;
+  margin-right: 4px;
+}
+
+.posts .pagination a {
+  color: #a00;
+}
+
+.posts .pagination a.previous {
+  margin-right: 4px;
 }
 
 .intro {

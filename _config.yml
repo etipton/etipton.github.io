@@ -2,3 +2,4 @@ name: CodeBestowed
 markdown: redcarpet
 pygments: true
 permalink: /:title
+paginate: 5
