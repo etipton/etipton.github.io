@@ -5,6 +5,14 @@ date:   2014-06-28 00:30:00
 categories: poker
 ---
 
+### TL;DR Version
+------------
+
+I laid down QQ on a Jack-high board. There was some thought and stuff that went into it. And stuff.
+
+### Not-Long-Enough; Tell Me More Version
+------------
+
 Sigh... unfortunately I'm falling behind on my goal of 1 blog post per week (on average). In order to get up-to-speed I'll need to write 2 / week for the next 5 weeks. Luckily I'll be back home on Monday after many weeks of traveling, which will help.
 
 Anyway, back to it... as promised in [a previous post](/1-for-8), I thought I'd share some insight from a couple of key hands I played during the poker tournament that I won in Vegas a few weeks ago.
