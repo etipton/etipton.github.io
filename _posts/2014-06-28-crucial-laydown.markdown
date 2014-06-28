@@ -4,7 +4,10 @@ title:  "Crucial Laydown"
 date:   2014-06-28 00:30:00
 categories: poker
 ---
-<p></p>
+
+Sigh... unfortunately I'm falling behind on my goal of 1 blog post per week (on average). In order to get up-to-speed I'll need to write 2 / week for the next 5 weeks. Luckily I'll be back home on Monday after many weeks of traveling, which will help.
+
+Anyway, back to it... as promised in [a previous post](/1-for-8), I thought I'd share some insight from a couple of key hands I played during the poker tournament that I won in Vegas a few weeks ago.
 
 ### TL;DR Version
 ------------
@@ -13,10 +16,6 @@ I laid down QQ on a Jack-high board. There was some thought and stuff that went 
 
 ### Not-Long-Enough; Tell Me More Version
 ------------
-
-Sigh... unfortunately I'm falling behind on my goal of 1 blog post per week (on average). In order to get up-to-speed I'll need to write 2 / week for the next 5 weeks. Luckily I'll be back home on Monday after many weeks of traveling, which will help.
-
-Anyway, back to it... as promised in [a previous post](/1-for-8), I thought I'd share some insight from a couple of key hands I played during the poker tournament that I won in Vegas a few weeks ago.
 
 This post is about what turned out to be the single most important decision I made all tournament. Somewhere around the **middle stages (1/2 to 3/4 of the way before making the money)** of the tournament, I found myself with a **2x average stack**, sitting at a table with a few other big stacks, one of whom had been playing very aggressively and winning lots of pots without showdown... just the kind of opponent I **don't** want to have to deal with... just for fun, let's call him **StupidFace**.
 
