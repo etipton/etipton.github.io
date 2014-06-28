@@ -43,14 +43,14 @@ I was already leaning towards calling, but realizing that I had "trapped myself"
 
 The limper folded, and **StupidFace** unsurprisingly called.
 
-The flop came **JcTh4c**. I knew I had the Qc. Suddenly **StupidFace** moved all-in. AcKc immediately flashed through my mind as his most likely hand. Most of the time I would snap-call when I get a "vision" like that, because my instincts are pretty good in these types of situations... you'd be amazed how many times I'm exactly right, or off by a single rank on one card. However, this time I was "in the zone" and I knew to tread carefully, as this was a HUGE pot. I wasn't just thinking hand vs. hand, like I so often do... instead, I was thinking about the tournament as a whole. Forcing myself to ignore my instincts, I walked through some potential hands **and the impact calling could have**:
+The flop came **JcTh4c**. I knew I had the Qc. Suddenly **StupidFace** moved all-in. AcKc immediately flashed through my mind as his most likely hand. Most of the time I would snap-call when I get a "vision" like that, because my instincts are pretty good in these types of situations... you'd be amazed how many times I'm exactly right, or off by a single rank on one card. However, this time I was "in the zone" and I knew to tread carefully, as this was a HUGE pot. I wasn't just thinking hand vs. hand, like I so often do... instead, I was thinking about the tournament as a whole. Forcing myself to ignore my instincts, I walked through some potential hands:
 
 1. AJ - Top pair. Not likely that he would move-in like he did, much more likely that he would bet smaller or go for a check-raise. **If I thought he had this, I should call every time.**
 - JJ, TT, or 44 - A set. Much more likely. He would move-in to push me off of AK, or to get me to call with QQ. **If I thought he had this, I should fold every time.**
 - AQ offsuit - Straight draw with one over. **A definite call here.**
 - AK offsuit - Straight draw with two overs. **My hand is ahead. But should I call?**
-- AcKc - Straight and flush draw. Also quite possible. **Same question - should I call?**
-- AcXc or KcXc - Another definite possibility. Sheesh. **Hmm... but should I call?**
+- AcKc - Straight and flush draw. My first instinct. **Same question - should I call though?**
+- AcXc or KcXc - Flush draw. Another definite possibility. Sheesh. **Well ahead... but should I call?**
 
 As you can see, I ended up having more questions than answers!
 
@@ -60,8 +60,8 @@ So...are you ready for the real epiphany that most tournament players never see 
 
 **The ultimate question is...** is it worth trying to _fade_ a flush AND/OR straight draw, with two cards to come, in order to have 4x the average stack at that point in the tournament, or be out? **The answer: No.** It's just not. That, combined with the chance that I was already beat by a set, made this decision simple.
 
-I was doing well enough picking up smaller pots and not putting my tournament life at risk. Having "merely" 2x the average stack already allowed me that luxury. Don't get me wrong, you have to risk your entire stack at certain points in a poker tournament in order to win. In fact, even in this case, if I could've come up with an estimate that I was an 80% favorite to win, or even a sure-fire 70%, I would've made the call. This just wasn't one of those times though. A >30% chance of going broke was just too much risk and not enough reward. I folded face-up.
+I was doing well enough picking up smaller pots without putting my tournament life at risk. Having "merely" 2x the average stack already allowed me that luxury. Don't get me wrong, you have to risk your entire stack at certain points in a poker tournament in order to win. In fact, even in this case, if I could've come up with an estimate that I was an 80% favorite to win, or even a sure-fire 70%, I would've made the call. This just wasn't one of those times though. A >30% chance of going broke was just too much risk and not enough reward. I folded face-up.
 
 What do you think? What would you have done?
 
-As usual, the results of the hand don't matter, only the decision-making process does, but I'll include the results in my next post anway. :)
+As usual, the results don't matter, only the decision-making process does, but I'll include the results in my next post anway. :)
