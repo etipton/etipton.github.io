@@ -14,9 +14,14 @@ Don't "trap" with medium-strength hands pre-flop.
 ### Not-Long-Enough; Tell Me More Version
 ------------
 
-First of all, the results from the [last hand that I discussed](/crucial-laydown) are that **StupidFace** turned over Ac8c (Ace-high flush draw) and ended up making his flush. By laying down what I even thought was probably the best hand at the time, I avoided the risk of going broke and ultimately ended up winning the tournament.
+First of all, the results from the [last hand that I discussed](/crucial-laydown) are that **StupidFace** turned over
+Ac8c (Ace-high flush draw) and ended up making his flush. By laying down what I even thought was probably the best hand
+at the time, I avoided the risk of going broke and ultimately ended up winning the tournament.
 
-In this post, I wanted to talk about the last hand of the tournament. I started heads-up play with a 2-1 chip lead and not much had changed by the start of the hand. In it, my opponent was on the button and was therefore the small-blind. (The blinds reverse their normal order when heads-up.) He limped, I raised all-in with Q-8 offsuit, and he called with two sixes. It was poker's version of a coin-flip and I got lucky and hit an 8 on the flop to win the tournament.
+In this post, I wanted to talk about the last hand of the tournament. I started heads-up play with a 2-1 chip lead and
+not much had changed by the start of this hand. In it, my opponent was on the button and was therefore the small-blind.
+(The blinds reverse their normal order when heads-up.) He limped, I raised all-in with Q-8 offsuit, and he called with
+two sixes. It was poker's version of a coin-flip and I got lucky and hit an 8 on the flop to win the tournament.
 
 So what happened here?
 
@@ -24,23 +29,52 @@ So what happened here?
   <img src="http://www.codebestowed.com/images/ackbar.jpeg" width="400">
 <p>
 
-Basically, my opponent decided to "trap" me with a medium-strength hand... actually, I should say ""medium-strength in terms of the full spectrum of all possible pre-flop hands". In reality, two sixes heads-up are a very strong hand and almost certainly winning or tied with the other dealt hand. Indeed, the problem isn't that he got all his money in with two sixes... it's the _way_ that he got his money in that was problematic for him.
+Basically, my opponent decided to "trap" me with a medium-strength hand... actually, I should say "medium-strength in
+terms of the full spectrum of all possible pre-flop hands." In reality, two sixes heads-up are a very strong hand and
+almost certainly winning or tied with the other dealt hand IF you don't take into account any betting actions... ;)
+Indeed, the problem isn't that he put all his money in with two sixes... it's the _way_ that he got his money in that
+was problematic for him.
 
-Actually, let me back up. You may be wondering why I labeled his play as a "trap." A trap in poker is when you slow-play your hand enticing your opponent to put all his money in with a bluff or an inferior hand. So what made him think that I (his opponent) would put all my money in (presumably on a bluff)? Simple. I had been pushing him all-in for several hands, and he rightly assumed that I didn't have a strong hand every time :) He had also been folding to my all-in moves, and he therefore he rightly assumed that I would continue to use my thus-far-proven strategy.
+Actually, let me back up. You may be wondering why I labeled his play as a "trap." A trap in poker is when you
+slow-play your hand enticing your opponent to put all his money in with a bluff or an inferior hand. So what made him
+think that I (his opponent) would put all my money in (presumably on a bluff) this time? Simple. I, admittedly, had
+been pushing him all-in for several hands, and he rightly assumed that I was bluffing many of these times :) So far he
+had been folding to my all-in moves, and therefore he also assumed that I would continue to use my thus-far-working
+strategy (correct again!).
 
-So in essence, he was "fighting back" against my strategy. What's wrong with that? Absolutely nothing! That's what he should be doing. However, he chose a dicey counter-strategy and an even dicier hand to do it with. His first line of counter-attacking should have been to play my own game against me... primarily by moving in on me when he was the small-blind, and secondarily by calling my all-in with, say, 55 or better, to take a stand. To be fair, he was doing this a bit, which was why we still had the same stack ratio that we started heads-up with.
+So in essence, he was "fighting back" against my strategy. What's wrong with that? Absolutely nothing! That's what he
+should be doing. However, he chose a dicey counter-strategy and an even dicier hand to do it with. His **first** line
+of counter-attacking should have been to play my own game against me... primarily by moving in on me when he was the
+small-blind, and secondarily by calling my all-in with, say, 55 or better, to take a stand. To be fair, he was doing
+the first part a bit (not enough imo), which was why we still had the same stack ratio that we started heads-up with.
 
-His **second** line of defense should have been to trap me, but he should've waited for a hand much stronger than sixes. Here are the main reasons why:
+His **second** line of defense should have been to trap me, but he should've waited for a hand much stronger than
+sixes. Here are the main reasons why:
 
-1. Against most hands, a small pocket-pair is even-money at best and a 4 to 1 dog at worst.
-2. The range of hands that I would all-in-bluff with **after a limp** is smaller than the range of hands that I would all-in-bluff with when I am first to act (small blind). This is because I have seen some strength from him and have to factor in the possibility that he may be trapping, and therefore I will throw total bluff hands (2-3, 3-5, etc.) away.
+1. Against most hands worthy of **both** opponents getting all their chips in with, a small pocket-pair is even-money
+at best and a 4 to 1 dog at worst.
+2. As a corollary, the range of hands that I would all-in-bluff with **after a limp** is smaller than the range of
+hands that I would all-in-bluff with **when I am first to act** (small blind). This is because I have seen some
+strength from him and have to factor in the possibility that he may be trapping, and therefore I will throw total bluff
+hands (2-3, 3-5, etc.) away.
 
-Therefore his odds of being a huge favorite against me are reduced to the odds that I have one of 22, 33, 44, or 55. There are slightly higher odds that I have a hand like A-2 through A-5 or K-2 through K-5, but the overwhelming likelihood is that I have either a.) two overcards (a coin-flip), or b.) a higher pocket pair (bad news for him).
+Therefore his odds of being a huge favorite against me are reduced to the odds that I have one of 22, 33, 44, or 55.
+There are slightly higher odds that I have a hand like A-2 through A-5 or K-2 through K-5, but the _overwhelming_
+likelihood is that I have either a.) two overcards (a coin-flip), or b.) a higher pocket pair (bad news for him).
 
-\#2 is a key consideration and is the difference, in this case, between calling here with sixes, or calling in the previously-mentioned scenario (responding to a single action, my moving all-in as the first to act) with two fives.
+\#2 is a key consideration and is the difference, in this case, between calling here with sixes being a bad play, and
+calling in the previously-mentioned scenario (responding to a single action, my moving all-in as the first to act) with
+two fives being a good play.
 
-By limp-calling with sixes here, he put himself in the position to be a coin-flip at best. The much better move would have been to go all-in as his first action. I would've folded my Q-8 and we would've played on.
+By limp-calling with sixes here, he put himself in the position to be a coin-flip at best. The much better move would
+have been to go all-in as his first action. I would've folded my Q-8 and we would've continued our cat-and-mouse game
+with the next hand.
 
-The trap play is a great play, but I would've waited for TT-AA, AT-AK, or TJ (TJ only if you get to, say, 10 BBs or less) to do it. Why TJ and not KQ, KJ, KT, QT, or QJ? Because with TJ you are more likely to have two live cards if you are beat (instead of possibly being outkicked), and you have more straight potential. (Fun fact: with TJ, if you make a straight and both cards play, you're guaranteed to have the nut straight.)
+The trap play is a great play, but I would've waited for TT-AA, AT-AK, or TJ. Why TJ? Because with TJ you are more
+likely to have two live cards if you are beat (instead of possibly being outkicked), and you have more straight
+potential. (Fun fact: with TJ, if you make a straight and both cards play, you're guaranteed to have the nut straight.)
+That said, I would reserve the "trap with TJ" play for a shorter stack (~8 big blinds or less), and otherwise would
+wait for one of the other hands.
 
-With any other decent hand, I'm just going to move in right off the bat, hoping to be called, or otherwise just moving on to the next hand.
+With any _other_ decent hand, I'm just going to move in right off the bat, hoping to be called, or otherwise just
+moving on to the next hand (where ~75% of the time I'd move in hoping NOT to be called :)
