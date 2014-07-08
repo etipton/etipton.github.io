@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Gum"
+date:   2014-07-08 04:30:00
+categories: poker life-hack
+---
+<p></p>
+
+### TL;DR Version
+------------
+
+I like gum.
+
+### Not-Long-Enough; Tell Me More Version
+------------
+
+In my final post about the [poker tournament I won in Vegas](/1-for-8), I thought I'd talk about something that isn't
+discussed enough in poker, or in life for that matter, which is mental stamina and, to that end, physical nourishment
+throughout the course of a long, busy day.
+
+Over the years, I've become pretty disciplined about my approach to poker tournaments in terms of eating healthy
+beforehand, and attempting to maintain an active, rational, pragmatic mindset while at the table. A mindset in which I
+am seeking out every edge I can get, but not to the point of gambling too much unnecessarily on the small edges.
+
+I still haven't mastered it and continue to experiment, but one habit I picked up on my Vegas trip was that of chewing
+gum.
+
+<p style="text-align:center;">
+  <img src="http://www.codebestowed.com/images/gum.png" width="400">
+<p>
+
+In the aforementioned Aria tournament, I played poker for 12+ hours with only small 15-minute breaks (no dinner
+break). I ate a light lunch beforehand but otherwise didn't eat a single meal throughout the day. I think chewing gum
+periodically helped me immensely because a.) the sugar gave me a shot of energy when I needed it, b.) the act of
+chewing helped keep me "in the moment", and c.) I used it as a reward system for surviving X minutes / hours, which
+also kept me from quickly chewing through the whole pack!
+
+I'm thinking of trying this out in my "real life" as a software developer when I need something to help me focus, which
+is usually sometime around mid-afternoon.
+
+Thoughts? Am I the [Michael Jordan](http://ballislife.com/mj-of-the-day-chewing-gum-blowing-bubbles-hangtime-gum/) of
+poker players / software developers? Or maybe I should just
+[become a pro athlete](http://www.sportsedge.com.au/gum-chewing-and-sports-performance/)?
