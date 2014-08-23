@@ -22,9 +22,8 @@ h1, h2, h3, h4, h5, h6 { font-size: 100%; }
 
 p { margin: 1em 0; }
 
-a         { color: #10f; }
-a:hover   { color: #000; }
-a:visited { color: #666; }
+a         { color: #CE534D; }
+a:hover   { color: #a00; }
 
 .right { float:right; }
 
@@ -60,10 +59,6 @@ a:visited { color: #666; }
   font-family: Helvetica;
   font-size: 14px;
   margin-right: 4px;
-}
-
-.posts .pagination a {
-  color: #a00;
 }
 
 .posts .pagination a.previous {
@@ -143,12 +138,11 @@ a:visited { color: #666; }
   border: 1px solid;
 }
 
-#footer .contact {
+#footer {
   line-height: 1.5em;
-  margin-top: -5px;
 }
 
-#footer .contact a {
+#footer a {
   color: #8085C1;
 }
 
