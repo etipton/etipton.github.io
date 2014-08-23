@@ -15,28 +15,30 @@
     <!-- FontAwesome -->
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
 
+    <!-- Google Fonts-->
+    <link href='http://fonts.googleapis.com/css?family=Maven+Pro' rel='stylesheet' type='text/css'>
+
   </head>
   <body>
-
-    <div class="site">
-      <div class="header">
-        <h1 class="title">
-          <a href="/">{{ site.name }}</a>
-          <span class="icons" style="float:right;">
-            <a href="/feed.xml"><img src="/images/rss.png"/></a>
-            <a href="https://github.com/etipton"><img src="/images/github.png"/></a>
-            <a href="http://stackoverflow.com/users/1938879/etipton"><img src="/images/stackoverflow.png"/></a>
-            <a href="http://www.twitter.com/EricCTipton"><img src="/images/twitter.png"/></a>
-            <a href="http://www.cardplayer.com/poker-players/79293-eric-tipton"><img src="/images/cardplayer.png"/></a>
-            <a href="http://www.linkedin.com/pub/eric-tipton/4/666/a83"><img src="/images/linkedin.png"/></a>
-          </span>
-          <p style="margin:0; padding-top:2px; font-size:12px;">A blog. By Eric Tipton.</p>
-        </h1>
+    <div id="wrapper">
+      <div id="header">
+        <a href="/">{{ site.name }}</a>
+        <span class="icons" style="float:right;">
+          <a href="/feed.xml"><img src="/images/rss.png"/></a>
+          <a href="https://github.com/etipton"><img src="/images/github.png"/></a>
+          <a href="http://stackoverflow.com/users/1938879/etipton"><img src="/images/stackoverflow.png"/></a>
+          <a href="http://www.twitter.com/EricCTipton"><img src="/images/twitter.png"/></a>
+          <a href="http://www.cardplayer.com/poker-players/79293-eric-tipton"><img src="/images/cardplayer.png"/></a>
+          <a href="http://www.linkedin.com/pub/eric-tipton/4/666/a83"><img src="/images/linkedin.png"/></a>
+        </span>
+        <p style="margin:0; padding-top:2px; font-size:12px;">A blog. By Eric Tipton.</p>
       </div>
 
-      {{ content }}
+      <div id="main-content">
+        {{ content }}
+      </div>
 
-      <div class="footer">
+      <div id="footer">
         <div class="contact">
           <p>
             Eric Tipton, Wantrepreneer <a href="/wantrepreneer">(what is this?)</a><br/>

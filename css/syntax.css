@@ -58,3 +58,9 @@
 .highlight .vg { color: #008080 } /* Name.Variable.Global */
 .highlight .vi { color: #008080 } /* Name.Variable.Instance */
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+.meta { color: #aaa; }
+.intro {
+  font-family: 'Maven Pro', sans-serif;
+  font-size: 105%;
+  font-style: italic;
+}

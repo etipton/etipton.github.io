@@ -3,55 +3,55 @@ layout: default
 title: CodeBestowed
 ---
 
-<div id="home">
+<div style="float:right; text-align:center;">
+  <img src="/images/me.jpg" width="120"/>
+  <p style="margin:0; font-size:11px; text-align:center;">I look like this (on a good day).</p>
+</div>
 
-  <div style="float:right;">
-    <img src="/images/me.jpg" width="150"/>
-    <p style="margin:0; font-size:11px; text-align:center;">I look like this (on a good day).</p>
+
+<h1 style="font-size:18px;">Recent Posts</h1>
+<p></p>
+<ul class="posts">
+  {% for post in paginator.posts %}
+    <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+
+  <!-- Pagination links -->
+  <div class="pagination">
+    <span class="page_number ">Page: <b>{{ paginator.page }}</b> of {{ paginator.total_pages }}</span>
+
+    {% if paginator.previous_page %}
+      {% if paginator.previous_page == 1 %}
+        <a href="/" class="previous">&laquo; Previous</a>
+      {% else %}
+        <a href="/page{{ paginator.previous_page }}" class="previous">&laquo; Previous</a>
+      {% endif %}
+    {% endif %}
+    {% if paginator.next_page %}
+      <a href="/page{{ paginator.next_page }}" class="next" style="color:#a00;">Next &raquo;</a>
+    {% endif %}
   </div>
+</ul>
 
-  <ul class="posts">
-    {% for post in paginator.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+<div class="intro">
+  <p>Welcome to CodeBestowed!</p>
 
-    <!-- Pagination links -->
-    <div class="pagination">
-      <span class="page_number ">Page: <b>{{ paginator.page }}</b> of {{ paginator.total_pages }}</span>
+  <p>I hope that reading my blog is a rewarding and entertaining experience for you.</p>
 
-      {% if paginator.previous_page %}
-        {% if paginator.previous_page == 1 %}
-          <a href="/" class="previous">&laquo; Previous</a>
-        {% else %}
-          <a href="/page{{ paginator.previous_page }}" class="previous">&laquo; Previous</a>
-        {% endif %}
-      {% endif %}
-      {% if paginator.next_page %}
-        <a href="/page{{ paginator.next_page }}" class="next" style="color:#a00;">Next &raquo;</a>
-      {% endif %}
-    </div>
+  <p>My primary goals for this blog are:</p>
+
+  <ul type="square">
+    <li>
+      Provide insight into my struggles and triumphs as I attempt to start and grow a software company. (More details on that later...)
+    </li>
+    <li>
+      Describe technical challenges that I encounter along the way, and any solutions, if applicable, that I discover.
+    </li>
+    <li>Increase my "Internet footprint."</li>
+    <li>Become a better and faster writer.</li>
   </ul>
 
-  <div class="intro">
-    <p>Welcome to CodeBestowed!</p>
+  <p>Thanks for reading,</p>
 
-    <p>I hope that reading my blog is a rewarding and entertaining experience for you.</p>
-
-    <p>My primary goals for this blog are:</p>
-
-    <ul type="square">
-      <li>
-        Provide insight into my struggles and triumphs as I attempt to start and grow a software company. (More details on that later...)
-      </li>
-      <li>
-        Describe technical challenges that I encounter along the way, and any solutions, if applicable, that I discover.
-      </li>
-      <li>Increase my "Internet footprint."</li>
-      <li>Become a better and faster writer.</li>
-    </ul>
-
-    <p>Thanks for reading,</p>
-
-    <p>Eric</p>
-  </div>
+  <p>Eric</p>
 </div>
