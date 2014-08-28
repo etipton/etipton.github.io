@@ -41,7 +41,9 @@ thinking.
 
 In this scenario, you might build an Action Tree in your head that looks something like...
 
-<img src="http://codebestowed.com/images/action-tree.png" width="600" />
+<p style="text-align:center;">
+  <img src="http://codebestowed.com/images/action-tree.png" width="600" />
+</p>
 
 In programming terms, you have pre-loaded your brain with several **if...else** statements. You can imagine how much
 brain power would be needed to construct this type of structure, not to mention retaining it. Fast, on-the-fly,
@@ -50,7 +52,9 @@ strategic thinking is not necessary because you have a **quick-lookup cache**, i
 
 To picture the (extreme) example of the the second quality, consider an Action Tree that simply looks like this:
 
-<img src="http://codebestowed.com/images/action-tree-top.png" width="600" />
+<p style="text-align:center;">
+  <img src="http://codebestowed.com/images/action-tree-top.png" width="600" />
+</p>
 
 The top of the tree is well-defined in terms of the possibile outcomes, but the action steps and further layers of the
 tree are undetermined. If you are this type of player and an unexpected event occurs, you would rely on your **past

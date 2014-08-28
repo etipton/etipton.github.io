@@ -88,7 +88,10 @@ a push segue (Selection Segue). Give the new ViewController's navigationItem a t
 - Using the Assistant Editor, create an IBAction method for the switch to call when it is toggled.
 
 <p>At this point, your storyboard should look something like this:</p>
-<img src="http://www.codebestowed.com/images/static-tableview-setup-storyboard.png" width="600" />
+
+<p style="text-align:center;">
+  <img src="http://www.codebestowed.com/images/static-tableview-setup-storyboard.png" width="600" />
+</p>
 
 ### <a name="move-cells-out-of-table"></a>Move Cells out of Table
 ------------
@@ -108,7 +111,9 @@ exactly.
 
 Your storyboard should now look like this:
 
-<img src="http://www.codebestowed.com/images/static-tableview-cells-moved-storyboard.png" width="600" />
+<p style="text-align:center;">
+  <img src="http://www.codebestowed.com/images/static-tableview-cells-moved-storyboard.png" width="600" />
+</p>
 
 The build error should be gone, but of course if you run the app now, the TableView won't actually populate and the
 cells won't behave as expected.

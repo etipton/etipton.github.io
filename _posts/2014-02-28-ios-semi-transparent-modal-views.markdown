@@ -62,7 +62,9 @@ the semi-transparent view because views appear in the order they are defined. If
 
 At this point your storyboard should look something like this:
 
-<img src="http://codebestowed.com/images/modal-storyboard.png" width="600" />
+<p style="text-align:center;">
+  <img src="http://codebestowed.com/images/modal-storyboard.png" width="600" />
+</p>
 
 If you run the app as-is, you'll notice that other than the modal view, the screen becomes completely black instead of
 dimming. To fix this, edit the ViewController class for the view that contains the "Show Modal" button (the new project

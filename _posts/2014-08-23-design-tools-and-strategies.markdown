@@ -2,7 +2,7 @@
 layout: post
 title:  "Design Tools and Strategies"
 date:   2014-08-23 16:30:00
-categories: design ui
+categories: design ui technical
 ---
 <p></p>
 
