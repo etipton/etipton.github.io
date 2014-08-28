@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Safari to the Rescue"
-date:   2014-08-23 16:30:00
+date:   2014-08-28 15:00:00
 categories: ui javascript technical
 ---
 
