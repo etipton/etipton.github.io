@@ -106,7 +106,7 @@ I was doing well enough picking up smaller pots without putting my tournament li
 average stack already allowed me that luxury. Don't get me wrong, you have to risk your entire stack at certain points
 in a poker tournament in order to win. In fact, even in this case, if I could've come up with an estimate that I was an
 80% favorite to win, or even a sure-fire 70%, I would've made the call. This just wasn't one of those times though. A
->30% chance of going broke was just too much risk and not enough reward. I folded face-up.
+&gt;30% chance of going broke was just too much risk and not enough reward. I folded face-up.
 
 What do you think? What would you have done?
 
