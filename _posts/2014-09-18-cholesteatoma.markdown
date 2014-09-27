@@ -26,4 +26,5 @@ has a much happier outcome so hopefully it can help balance out the negative sto
 Please note that I don't mean any disrespect to anyone who has had negative experiences due to having this issue. I
 certainly sympathize and hope that one day there will be a way to prevent or more easily remove these growths.
 
-For those interested, stay tuned and in my next blog post, I'll outline the symptoms that I experienced.
+For those interested, stay tuned and in [my next blog post](/cholesteatoma-symptoms), I'll outline the symptoms that I
+experienced.
