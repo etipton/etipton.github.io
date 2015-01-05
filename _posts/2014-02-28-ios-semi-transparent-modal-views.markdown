@@ -45,7 +45,7 @@ steps into his/her already existing project.
 
 1. Create a new project using the "Single View Application" template, and just choose iPhone (not iPad/universal).
 - Open the Main.storyboard file and drag a TextView object into the view. Resize it to fit the view exactly, then
-copy and past the default text ("Lorem ipsum...") a couple times so that the whole view is covered in text. This will
+copy and paste the default text ("Lorem ipsum...") a couple times so that the whole view is covered in text. This will
 allow you to ensure that the dimming effect is functioning properly.
 - Drag a button onto the view and name it "Show Modal" or something similar. Change its background to a solid color
 other than white so you can distinguish it from the text.
