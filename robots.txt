@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /safari-to-the-rescue/
+Disallow:
