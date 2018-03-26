@@ -3,8 +3,11 @@
   </head>
   <body id="body">
     <script type="text/javascript">
-      alert('hello world');
-      document.getElementById('body').innerHTML = 'here is some content';
+      if (confirm('hello world?')) {
+        document.getElementById('body').innerHTML = 'here is some content';
+      } else {
+        document.getElementById('body').innerHTML = 'here is some other content';
+      }
     </script>
   </body>
 </html>
